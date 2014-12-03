@@ -1,4 +1,5 @@
 fis-postprocessor-annotate
 ==========================
 
-add ng-annotate in fis postprocessor
+add ng-annotate for angularjs in fis postprocessor
+
