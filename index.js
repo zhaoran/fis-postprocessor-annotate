@@ -9,7 +9,7 @@ var ngAnnotate = require("ng-annotate");
 var semi = require('semi');
 
 module.exports = function(content, file, conf) {
-    if (file.extras&&file.extras.isAnnotate) {
+    if (file.isMod) {
         if (!conf.annotate || conf.annotate == 'add') {
             content = ngAnnotate(content, {
                 add: true
