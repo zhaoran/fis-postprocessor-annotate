@@ -1,14 +1,14 @@
-fis-postprocessor-annotate
+fis-preprocessor-annotate
 ==========================
 
-add ng-annotate for angularjs in fis postprocessor
+add ng-annotate for angularjs in fis preprocessor
 
 在fis里继承ng-annotate的功能
 
 > 安装
 
 ```javascript
-    npm install -g fis-postprocessor-annotate
+    npm install -g fis-preprocessor-annotate
 ```
 
 > 然后再fis-conf.js中开始annotate插件(如果基于fisp的，要把fisp的配置也一起拷贝过来)
