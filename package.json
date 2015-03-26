@@ -1,29 +1,29 @@
 {
-  "name": "fis-preprocessor-annotate",
-  "description": "A preprocessor plugin for fis to add and rebuild angularjs dependency injection annotations",
-  "version": "0.0.1",
-  "author": "shengxinjing <shengxinjing@baidu.com>",
-  "dependencies": {
-    "ng-annotate": "0.13.0",
-    "semi":"2.0.0"
-  },
-  "keywords": [
-    "fis",
-    "annotate"
-  ],
-  "main": "index.js",
-  "engines": {
-    "node": ">= 0.8.0"
-  },
-  "license": "MIT",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/hefangshi/fis-preprocessor-annotate.git"
-  },
-  "bugs": {
-    "url": "https://github.com/hefangshi/fis-preprocessor-annotate/issues"
-  }
+    "name": "fis-preprocessor-annotate",
+    "description": "A preprocessor plugin for fis to add and rebuild angularjs dependency injection annotations",
+    "version": "0.0.2",
+    "author": "shengxinjing <shengxinjing@baidu.com>",
+    "dependencies": {
+        "ng-annotate": "0.15.4",
+        "semi": "2.0.0"
+    },
+    "keywords": [
+        "fis",
+        "annotate"
+    ],
+    "main": "index.js",
+    "engines": {
+        "node": ">= 0.8.0"
+    },
+    "license": "MIT",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hefangshi/fis-preprocessor-annotate.git"
+    },
+    "bugs": {
+        "url": "https://github.com/hefangshi/fis-preprocessor-annotate/issues"
+    }
 }
