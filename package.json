@@ -1,5 +1,5 @@
 {
-    "name": "fis-postprocessor-annotate",
+    "name": "fis-postprocessor-annotate-lastest",
     "description": "A postprocessor plugin for fis to add and rebuild angularjs dependency injection annotations",
     "version": "0.0.3",
     "author": "shengxinjing <shengxinjing@baidu.com>",
