@@ -1,6 +1,6 @@
 {
-    "name": "fis-preprocessor-annotate",
-    "description": "A preprocessor plugin for fis to add and rebuild angularjs dependency injection annotations",
+    "name": "fis-postprocessor-annotate",
+    "description": "A postprocessor plugin for fis to add and rebuild angularjs dependency injection annotations",
     "version": "0.0.3",
     "author": "shengxinjing <shengxinjing@baidu.com>",
     "dependencies": {
@@ -21,9 +21,9 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/hefangshi/fis-preprocessor-annotate.git"
+        "url": "https://github.com/zhaoran/fis-postprocessor-annotate.git"
     },
     "bugs": {
-        "url": "https://github.com/hefangshi/fis-preprocessor-annotate/issues"
+        "url": "https://github.com/zhaoran/fis-postprocessor-annotate/issues"
     }
 }
