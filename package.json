@@ -1,10 +1,10 @@
 {
     "name": "fis-preprocessor-annotate",
     "description": "A preprocessor plugin for fis to add and rebuild angularjs dependency injection annotations",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "author": "shengxinjing <shengxinjing@baidu.com>",
     "dependencies": {
-        "ng-annotate": "0.15.4",
+        "ng-annotate": "~1.2.1",
         "semi": "2.0.0"
     },
     "keywords": [
